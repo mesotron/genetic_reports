@@ -1,4 +1,6 @@
-﻿namespace analysis_genetics1
+// Automatically generated code
+
+namespace analysis_genetics1
 {
     internal class Result5Row
     {
